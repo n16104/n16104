@@ -1,0 +1,42 @@
+import  roman1
+
+import unittest
+
+class knownvalues(unittest.TestCases):
+
+    known_values = ((1, 'I')
+                    (2, 'II'
+                    (3, 'III')
+                    (4, 'IV')
+                    (5, 'V')
+                    (6, 'VI')
+                    (7, 'VII')
+                    (8, 'VIII')
+                    (9, 'IX')
+                    (10, 'X')
+                    (50, 'L')
+                    (100, 'C')
+                    (500, 'D')
+                    (1000, 'M')
+                    (31, 'XXXI')
+                    (148, 'CXLVIII')
+                    (294, 'CCXCIV')
+                    (312, 'CCCXII')
+                    (421, 'CDXXI')
+                    (528, 'DXXVIII')
+                    (621, 'DCXXI')
+                    (782, 'DCCLXXXII')
+                    (870, 'DCCCLXX')
+                    (941, 'CMXLI')
+                    (1043, 'MXLIII')
+                    (1110, 'MCX')
+                    (1226, 'MCCXXVI')
+                    (1301, 'MCCCI')
+                    (1485, 'MCDLXXXV')
+                    (1509 'MDIX')
+                    (1607, 'MDCVII')
+                    (1754, 'MDCCLIV')
+                    (1832, 'MDCCCXXXII')
+                    (1993, 'MCMCXIII')
+                    (2074, 'MMLXXIV')
+                    ()
