@@ -1,0 +1,3 @@
+words = ['cat', 'window','defentrate']
+for w in words:
+   print(
